@@ -38,10 +38,6 @@ deploy. Three modules, each enforcing something that would otherwise depend on s
 Built in 48 hours because a client needed POPIA guarantees before they would deploy. It turned out
 to be reusable, so it now sits under every build.
 
-### [LandD](https://github.com/Joche101/LandD) — fine-tuning and evaluation
-Jupyter notebooks covering model fine-tuning and text evaluation. Live demo at
-[land-d.vercel.app](https://land-d.vercel.app).
-
 ---
 
 ## Certifications and badges
